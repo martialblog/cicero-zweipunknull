@@ -1,0 +1,34 @@
+/*
+ Theme Name:   Cicero Child
+ Theme URI:    http://wattba.zweipunknullde
+ Description:  Cicero Child Theme
+ Author:       Markus Opolka
+ Author URI:   http://martialblog.de
+ Template:     mh-cicero-lite
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+
+/* Wattba Color: 2e8acc Original: 2ecc71; */
+
+blockquote { font-size: 15px; font-size: 0.9375rem; line-height: 1.6; color: #666; padding: 15px; padding: 0.9375rem; border-left: 5px solid #2e8acc; display: inline-block; }
+a:hover { color: #2e8acc; }
+.main-nav ul li:hover, .main-nav ul .current-menu-item { background: #2e8acc; }
+.main-nav ul li:hover > ul { display: block; background: #2e8acc; z-index: 9999; }
+.slicknav_menu { background: #2e8acc; border-bottom: 1px solid #f1f1f1; }
+.entry-more .more-link { display: inline-block; color: #fff; font-weight: 700; background: #2e8acc; padding: 10px 20px; text-transform: uppercase; }
+.entry-icon .fa-inverse { color: #2e8acc; }
+.entry-content a { color: #2e8acc; }
+.page-numbers:hover, .current, a:hover .pagelink { color: #fff; background: #2e8acc; }
+.pagelink { display: inline-block; padding: 5px 15px; color: #fff; background: #2e8acc; }
+table th { color: #fff; background: #2e8acc; padding: 10px; padding: 0.625rem; }
+.commentlist a:hover { color: #2e8acc; }
+.commentlist .bypostauthor .avatar { border: 2px solid #2e8acc; }
+.comment-author, .comment-author a { color: #2e8acc; }
+.comment-info { color: #2e8acc; margin: 20px 0px; margin: 1.25rem 0rem; }
+.required { color: #2e8acc; }
+#infinite-handle span:hover { background: #2e8acc; }
+input[type=submit] { color: #fff; font-weight: 600; padding: 10px 20px; cursor: pointer; background: #2e8acc; display: inline-block; border: 0; -webkit-appearance: none; }
