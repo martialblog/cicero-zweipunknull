@@ -32,3 +32,4 @@ table th { color: #fff; background: #2e8acc; padding: 10px; padding: 0.625rem; }
 .required { color: #2e8acc; }
 #infinite-handle span:hover { background: #2e8acc; }
 input[type=submit] { color: #fff; font-weight: 600; padding: 10px 20px; cursor: pointer; background: #2e8acc; display: inline-block; border: 0; -webkit-appearance: none; }
+.cp-thumb .image-frame { display: none }
